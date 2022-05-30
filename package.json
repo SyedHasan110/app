@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build-ts": "tsc --watch --target ESNext ./main.ts"
+  },
+  "keywords": [],
+  "author": "Syed Mohammad Hasan",
+  "license": "ISC"
+}
