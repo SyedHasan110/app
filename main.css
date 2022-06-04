@@ -22,3 +22,10 @@ li {
 a {
     text-decoration: none;
 }
+
+h1 {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 0.8rem;
+    border-radius: 0.2rem;
+}
